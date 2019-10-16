@@ -1,0 +1,12 @@
+html {
+  -webkit-font-smoothing: antialiased;
+  scroll-behavior: smooth;
+}
+
+/* Offset anchors */
+/* :target {
+  display: block;
+  position: relative;
+  top: -100px;
+  visibility: hidden;
+} */
